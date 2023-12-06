@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile! 
 
-<p>I’m trying to learn something new, currently and always under construction. </p>
+<p>I’m trying to learn something new - currently and always under construction. </p>
 
 <hr>
 
